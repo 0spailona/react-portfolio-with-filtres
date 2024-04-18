@@ -1,0 +1,11 @@
+.projectList {
+    display: flex;
+    gap: 1rem;
+}
+
+.columnItems {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 1rem;
+}

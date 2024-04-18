@@ -1,0 +1,13 @@
+.toolbarBtn {
+    width: fit-content;
+    padding: 0.5rem 1rem;
+    color: #242424;
+    font-size: 1.2rem;
+    background-color: #f9f9f9;
+    border: 1px solid #242424;
+}
+
+.toolbarBtn.selected {
+    color: #f9f9f9;
+    background-color: #242424;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "react-portfolio-with-filtres",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/0spailona/react-portfolio-with-filtres.git"
+  },
+  "author": "0spailona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0spailona/react-portfolio-with-filtres/issues"
+  },
+  "homepage": "https://github.com/0spailona/react-portfolio-with-filtres#readme",
+  "description": ""
+}
