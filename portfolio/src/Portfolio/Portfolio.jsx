@@ -9,7 +9,7 @@ export default class Portfolio extends Component {
     render() {
         let arrToDraw = this.props.data;
         if (this.state.filter) {
-            arrToDraw = arrToDraw.filter(x => x.category === this.state.filter);
+            arrToDraw = arrToDraw.filter(x => x[this.props.filterField] === this.state.filter);
         }
 
         return <div className={"portfolio"}>
